@@ -11,8 +11,8 @@ python imc.py
 2. O usuário informa a altura em metros
 3. O programa cálcula o IMC usando a fórmula IMC = peso / (altura ** 2)
 4. Usa o if/else/elif para classificar
-5. Mostra o resultado pro usuário 
-## Tecnologias
+5. Mostra o resultado para o usuário 
+## Technologies
 - Python
 ## Autor
 Ramon Viana De Andrade (Ramon Diamond)
