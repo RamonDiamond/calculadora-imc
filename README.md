@@ -5,7 +5,7 @@ Projeto em python que calcula o índice de massa corporal.
 - Cálculo automático do IMC
 - Classificação: abaixo do peso, ideial, sobrepeso, obesidade
 ## Como executar
-Python imc.py
+python imc.py
 ## Lógica do programa
 1. O usuário informa o peso em quilos
 2. O usuário informa a altura em metros
